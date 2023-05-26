@@ -4,20 +4,20 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "My Homepage"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   My Project Portfolio
 
-email: a-mail@mail.mail
+email: kexiang@ucsd.edu
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/mylogo.png"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/mycover.png"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'Kerong Xiang'
+author: 'Kerong Xiang'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
